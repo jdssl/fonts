@@ -1,0 +1,3 @@
+# Fonts
+
+fc-cache -vf
